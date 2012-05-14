@@ -28,3 +28,9 @@ pip-log.txt
 
 # other
 *.DS_Store
+
+# db
+*.lock
+*.0
+*.1
+*.ns
